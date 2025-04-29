@@ -1,7 +1,7 @@
 // Configuration array with login credentials and base URLs
 const testConfigs = [
   {
-    baseUrl: "http://localhost:3000",
+    baseUrl: "https://dynamic-form-generator-ag92.vercel.app",
     credentials: {
       rollNumber: "TEST123",
       name: "Test User",
